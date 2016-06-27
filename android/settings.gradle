@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeTcpProtocolBufClient'
+
+include ':app'

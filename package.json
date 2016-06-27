@@ -6,6 +6,9 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
+    "buffer": "^4.7.0",
+    "byte-buffer": "^1.0.3",
+    "google-protobuf": "^3.0.0-alpha.6.2",
     "react": "15.1.0",
     "react-native": "0.28.0",
     "react-native-tcp": "^2.0.0"
